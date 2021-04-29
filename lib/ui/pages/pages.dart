@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:mobile_flutter/models/models.dart';
 import 'package:mobile_flutter/shared/shared.dart';
 import 'package:mobile_flutter/ui/widgets/widgets.dart';
 import 'package:supercharged/supercharged.dart';
